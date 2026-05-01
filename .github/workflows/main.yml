@@ -2,7 +2,11 @@ name: Update Schedule Data
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+    paths:
+      - 'index.py'
+      - 'links.json'
   workflow_dispatch: 
 
 jobs:
