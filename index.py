@@ -38,16 +38,28 @@ def getGoogleSheet(url, outFile):
 def csvToJson(filePath, outputFile, grade_label):
     df_raw = pd.read_csv(filePath, header=None)
 
-    # Detect format: m1-3 has schedule cols at 9-16, m4-6 has at 10-25
-    # Check by looking at row 1 col 9 (m1-3 has day header 'จันทร์', m4-6 has 'รหัสวิชา')
-    if df_raw.iloc[1, 9] == 'จันทร์':
-        # m1-3 format: schedule cols 9-16
+    total_cols = len(df_raw.columns)
+
+    # Detect format based on total columns:
+    # m1-3: 17 cols, schedule cols 9-16 (8 cols)
+    # m4: 26 cols, schedule cols 10-25 (16 cols)
+    # m5: 28 cols, schedule cols 10-27 (18 cols)
+    # m6: 32 cols, schedule cols 10-31 (22 cols)
+    if total_cols == 17:
         schedule_start = 9
         schedule_cols = 8
-    else:
-        # m4-6 format: schedule cols 10-25
+    elif total_cols == 26:
         schedule_start = 10
         schedule_cols = 16
+    elif total_cols == 28:
+        schedule_start = 10
+        schedule_cols = 18
+    elif total_cols == 32:
+        schedule_start = 10
+        schedule_cols = 22
+    else:
+        print(f"Unknown format for {grade_label}: {total_cols} columns")
+        return
 
     schedule_end = schedule_start + schedule_cols
     day_headers = df_raw.iloc[1, schedule_start:schedule_end].ffill().tolist()

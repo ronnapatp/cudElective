@@ -10,7 +10,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"30",
     "updatedElectiveQuantity":"30",
-    "classtime":"",
+    "classtime":"ศุกร์ 1",
     "classroom":"",
     "note":"-"
   },
@@ -86,9 +86,9 @@
       "30"
     ],
     "classtime":[
-      "อังคาร 6",
-      "อังคาร 6",
-      "อังคาร 6",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3",
       "จันทร์ 1, พุธ 7, พุธ 8",
       "จันทร์ 1, พุธ 7, พุธ 8"
     ],
@@ -149,7 +149,7 @@
       "30"
     ],
     "classtime":[
-      "พฤหัสบดี 7",
+      "พฤหัสบดี 7, พฤหัสบดี 8",
       "พุธ 7, พุธ 8"
     ],
     "classroom":[
@@ -188,7 +188,7 @@
       "30"
     ],
     "classtime":[
-      "",
+      "ศุกร์ 2, ศุกร์ 3",
       "อังคาร 7, อังคาร 8"
     ],
     "classroom":[
@@ -250,7 +250,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"8",
     "updatedElectiveQuantity":"8",
-    "classtime":"",
+    "classtime":"พฤหัสบดี 8",
     "classroom":"",
     "note":"เรียนรวม\nม.4-6"
   },
@@ -286,8 +286,8 @@
       "35"
     ],
     "classtime":[
-      "พุธ 1, พุธ 2",
-      "จันทร์ 3, จันทร์ 4",
+      "พุธ 1, พุธ 2, ศุกร์ 1",
+      "จันทร์ 3, จันทร์ 4, ศุกร์ 6",
       "จันทร์ 1, พุธ 7, พุธ 8"
     ],
     "classroom":[
@@ -333,9 +333,9 @@
       "35"
     ],
     "classtime":[
-      "จันทร์ 7, จันทร์ 8, พุธ 4",
-      "อังคาร 3, อังคาร 4, พฤหัสบดี 7",
-      "จันทร์ 3, จันทร์ 4, พุธ 4"
+      "จันทร์ 7, จันทร์ 8, พุธ 4, ศุกร์ 4",
+      "อังคาร 3, อังคาร 4, พฤหัสบดี 7, พฤหัสบดี 8",
+      "จันทร์ 3, จันทร์ 4, พุธ 4, ศุกร์ 4"
     ],
     "classroom":[
       "",
@@ -385,10 +385,10 @@
       "35"
     ],
     "classtime":[
-      "จันทร์ 3, จันทร์ 4",
+      "จันทร์ 3, จันทร์ 4, ศุกร์ 6",
       "จันทร์ 1, พุธ 7, พุธ 8",
-      "พุธ 1, พุธ 2",
-      "อังคาร 6"
+      "พุธ 1, พุธ 2, ศุกร์ 1",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3"
     ],
     "classroom":[
       "",
@@ -492,7 +492,7 @@
     "enrollment":"วิทย์-คณิต",
     "electiveQuantity":"25",
     "updatedElectiveQuantity":"25",
-    "classtime":"",
+    "classtime":"ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -522,7 +522,7 @@
     "enrollment":"วิทย์-คณิต",
     "electiveQuantity":"30",
     "updatedElectiveQuantity":"30",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"-"
   },
@@ -642,7 +642,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"",
+    "classtime":"ศุกร์ 4",
     "classroom":"",
     "note":"-"
   },
@@ -657,7 +657,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"",
+    "classtime":"ศุกร์ 1",
     "classroom":"",
     "note":"-"
   },
@@ -672,7 +672,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":"-"
   },
@@ -687,7 +687,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"พุธ 4",
+    "classtime":"พุธ 4, ศุกร์ 4",
     "classroom":"",
     "note":"-"
   },
@@ -717,7 +717,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"30",
     "updatedElectiveQuantity":"30",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"นักเรียนที่เคยลงทะเบียนรายวิชานี้ใน \nม.4-5 ห้าม\nลงทะเบียนเรียนซ้ำ"
   },
@@ -824,7 +824,7 @@
     ],
     "classtime":[
       "จันทร์ 3, จันทร์ 4",
-      ""
+      "ศุกร์ 2, ศุกร์ 3"
     ],
     "classroom":[
       "",
@@ -900,7 +900,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -947,7 +947,7 @@
     ],
     "classtime":[
       "พุธ 7, พุธ 8",
-      ""
+      "ศุกร์ 2, ศุกร์ 3"
     ],
     "classroom":[
       "",
@@ -999,7 +999,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":"-"
   },
@@ -1014,7 +1014,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"7",
     "updatedElectiveQuantity":"7",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"เรียนรวม\nม.4-6"
   },
@@ -1029,7 +1029,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"7",
     "updatedElectiveQuantity":"7",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"เรียนรวม\nม.4-6, เฉพาะนักเรียน\nวงโยธวาทิตที่ผ่าน\nการคัดเลือก"
   },
@@ -1044,7 +1044,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"7",
     "updatedElectiveQuantity":"7",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"เรียนรวม\nม.4-6, มีค่าใช้จ่ายสำหรับอุปกรณ์ 500-1,000 บาท, มีการทัศนศึกษาภายนอกโรงเรียน"
   },
@@ -1059,7 +1059,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"7",
     "updatedElectiveQuantity":"7",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"เรียนรวม\nม.4-6, มีค่าใช้จ่ายสำหรับอุปกรณ์ 500-1,000 บาท, มีการทัศนศึกษาภายนอกโรงเรียน"
   },
@@ -1074,7 +1074,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"7",
     "updatedElectiveQuantity":"7",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"เรียนรวม\nม.4-6, เฉพาะนักดนตรีไทยที่ผ่านคัดเลือก"
   },
@@ -1104,7 +1104,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"มีค่าใช้จ่ายสำหรับอุปกรณ์ไม่เกิน 500 บาท"
   },
@@ -1119,7 +1119,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"-"
   },
@@ -1205,7 +1205,7 @@
     ],
     "classtime":[
       "พุธ 1, พุธ 2",
-      "พฤหัสบดี 7"
+      "พฤหัสบดี 7, พฤหัสบดี 8"
     ],
     "classroom":[
       "",
@@ -1283,7 +1283,7 @@
     ],
     "classtime":[
       "พุธ 1, พุธ 2",
-      ""
+      "ศุกร์ 2, ศุกร์ 3"
     ],
     "classroom":[
       "",
@@ -1335,7 +1335,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"30",
     "updatedElectiveQuantity":"30",
-    "classtime":"",
+    "classtime":"ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -1395,7 +1395,7 @@
     "enrollment":"ศิลป์-ฝรั่งเศส",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -1410,7 +1410,7 @@
     "enrollment":"ศิลป์-เยอรมัน",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -1425,7 +1425,7 @@
     "enrollment":"ศิลป์-จีน",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -1440,7 +1440,7 @@
     "enrollment":"ศิลป์-ญี่ปุ่น",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
     "note":"-"
   },
@@ -1477,7 +1477,7 @@
     ],
     "classtime":[
       "พุธ 1, พุธ 2",
-      "พุธ 4",
+      "พุธ 4, ศุกร์ 4",
       "อังคาร 3, อังคาร 4"
     ],
     "classroom":[
@@ -1502,7 +1502,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"30",
     "updatedElectiveQuantity":"30",
-    "classtime":"",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":"เฉพาะนักเรียนที่มีเกรดเฉลี่ยต่ำกว่า 2 เท่านั้น"
   },
@@ -1517,7 +1517,7 @@
     "enrollment":"วิทย์-คณิต",
     "electiveQuantity":"30",
     "updatedElectiveQuantity":"30",
-    "classtime":"",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":"-"
   },
@@ -1532,7 +1532,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"",
+    "classtime":"ศุกร์ 4",
     "classroom":"",
     "note":"-"
   },
@@ -1568,7 +1568,7 @@
       "35"
     ],
     "classtime":[
-      "",
+      "ศุกร์ 1",
       "อังคาร 6",
       "จันทร์ 1"
     ],
@@ -1594,7 +1594,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"",
+    "classtime":"ศุกร์ 1",
     "classroom":"",
     "note":"-"
   },
@@ -1609,7 +1609,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":"นักเรียนต้องมีพื้นฐานภาษาจีน"
   },
@@ -1624,7 +1624,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 1",
     "classroom":"",
     "note":"นักเรียนต้องมีพื้นฐานภาษาญี่ปุ่น"
   },
@@ -1654,7 +1654,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":""
   },
@@ -1684,7 +1684,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"นักเรียนต้องมีพื้นฐานภาษาเยอรมันรับเฉพาะนักเรียนกลุ่มการเรียนภาษาอังกฤษ-เยอรมัน"
   },
@@ -1699,7 +1699,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"ห้ามนักเรียนศิลป์-จีน\nลงทะเบียน"
   },
@@ -1714,7 +1714,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"ห้ามนักเรียนศิลป์-ญี่ปุ่น\nลงทะเบียน"
   },
@@ -1745,7 +1745,7 @@
       "30"
     ],
     "classtime":[
-      "พฤหัสบดี 7",
+      "พฤหัสบดี 7, พฤหัสบดี 8",
       "อังคาร 7, อังคาร 8"
     ],
     "classroom":[
@@ -1768,7 +1768,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
     "note":"-"
   },

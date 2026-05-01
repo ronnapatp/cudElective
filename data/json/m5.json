@@ -229,8 +229,8 @@
     "classtime":[
       "พุธ 6, ศุกร์ 3, ศุกร์ 4",
       "พุธ 6, ศุกร์ 3, ศุกร์ 4",
-      "พฤหัสบดี 2",
-      "พฤหัสบดี 2"
+      "พฤหัสบดี 2, ศุกร์ 7, ศุกร์ 8",
+      "พฤหัสบดี 2, ศุกร์ 7, ศุกร์ 8"
     ],
     "classroom":[
       "",
@@ -256,7 +256,7 @@
     "enrollment":"EP",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 3",
+    "classtime":"จันทร์ 3, ศุกร์ 7, ศุกร์ 8",
     "classroom":"",
     "note":"เฉพาะนักเรียนโครงการ CUD-EP"
   },
@@ -312,8 +312,8 @@
       "35"
     ],
     "classtime":[
-      "อังคาร 1, อังคาร 2",
-      "อังคาร 1, อังคาร 2",
+      "อังคาร 1, อังคาร 2, ศุกร์ 7, ศุกร์ 8",
+      "อังคาร 1, อังคาร 2, ศุกร์ 7, ศุกร์ 8",
       "จันทร์ 3, จันทร์ 4, ศุกร์ 3, ศุกร์ 4",
       "จันทร์ 3, จันทร์ 4, ศุกร์ 3, ศุกร์ 4"
     ],
@@ -516,7 +516,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 7, ศุกร์ 8",
     "classroom":"",
     "note":"-"
   },
@@ -621,7 +621,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"18",
     "updatedElectiveQuantity":"18",
-    "classtime":"",
+    "classtime":"ศุกร์ 7, ศุกร์ 8",
     "classroom":"",
     "note":"-"
   },
@@ -877,7 +877,7 @@
       "10"
     ],
     "classtime":[
-      "",
+      "ศุกร์ 7, ศุกร์ 8",
       "อังคาร 7, อังคาร 8"
     ],
     "classroom":[
@@ -969,7 +969,7 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
-    "classtime":"",
+    "classtime":"ศุกร์ 7, ศุกร์ 8",
     "classroom":"",
     "note":"มีค่าใช้จ่ายสำหรับอุปกรณ์ไม่เกิน 500 บาท"
   },

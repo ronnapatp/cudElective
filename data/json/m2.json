@@ -25,7 +25,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -165,7 +165,7 @@
       ""
     ],
     "classtime":[
-      "nan 8",
+      "อังคาร 7, อังคาร 8",
       "พฤหัสบดี 5, พฤหัสบดี 6"
     ],
     "classroom":[
@@ -203,7 +203,7 @@
     "enrollment":"20",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -263,7 +263,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -293,7 +293,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -353,7 +353,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -383,7 +383,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -428,7 +428,7 @@
     "enrollment":"20",
     "electiveQuantity":"มีค่าใช้จ่ายสำหรับอุปกรณ์ไม่เกิน 500 บาท, \nมีการทัศนศึกษาภายนอกโรงเรียน",
     "updatedElectiveQuantity":"มีค่าใช้จ่ายสำหรับอุปกรณ์ไม่เกิน 500 บาท, \nมีการทัศนศึกษาภายนอกโรงเรียน",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -533,7 +533,7 @@
     "enrollment":"20",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
     "note":"✔"
   },
@@ -586,7 +586,7 @@
     "classtime":[
       "พุธ 3",
       "ศุกร์ 6",
-      ""
+      "อังคาร 7"
     ],
     "classroom":[
       "",
@@ -752,7 +752,7 @@
     ],
     "classtime":[
       "ศุกร์ 6",
-      "nan 8"
+      "อังคาร 8"
     ],
     "classroom":[
       "",
