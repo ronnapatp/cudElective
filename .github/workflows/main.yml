@@ -1,15 +1,20 @@
-name: Run Index Script
+name: Update Schedule Data
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch: # Allows you to run this manually from the Actions tab
+    branches:
+      - main
+    paths:
+      - 'index.py'
+      - 'links.json'
+      # This ensures the workflow only runs when the script or links change,
+      # not when the generated data files are updated.
 
 jobs:
-  build:
+  update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout code
@@ -18,12 +23,29 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # You can adjust this to your preferred version
+          python-version: '3.10'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pandas
 
-      - name: Run script
+      - name: Run Python Script
         run: python index.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the specific output directories
+          git add data/csv/ data/json/
+          
+          # Check if there are changes to commit to avoid empty commit errors
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Automated data update: $(date)"
+            git push
+          else
+            echo "No changes detected in data files."
+          fi
