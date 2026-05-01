@@ -40,26 +40,14 @@ def csvToJson(filePath, outputFile, grade_label):
 
     total_cols = len(df_raw.columns)
 
-    # Detect format based on total columns:
-    # m1-3: 17 cols, schedule cols 9-16 (8 cols)
-    # m4: 26 cols, schedule cols 10-25 (16 cols)
-    # m5: 28 cols, schedule cols 10-27 (18 cols)
-    # m6: 32 cols, schedule cols 10-31 (22 cols)
+    # m1-3 (17 cols): new format with 8 schedule cols (cols 9-16)
+    # m4-6: old format with 22 schedule cols (cols 10-31)
     if total_cols == 17:
         schedule_start = 9
         schedule_cols = 8
-    elif total_cols == 26:
-        schedule_start = 10
-        schedule_cols = 16
-    elif total_cols == 28:
-        schedule_start = 10
-        schedule_cols = 18
-    elif total_cols == 32:
+    else:
         schedule_start = 10
         schedule_cols = 22
-    else:
-        print(f"Unknown format for {grade_label}: {total_cols} columns")
-        return
 
     schedule_end = schedule_start + schedule_cols
     day_headers = df_raw.iloc[1, schedule_start:schedule_end].ffill().tolist()
