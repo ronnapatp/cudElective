@@ -10,7 +10,7 @@
     "enrollment":"10",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -40,7 +40,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -91,7 +91,7 @@
       ""
     ],
     "classtime":[
-      "nan 6",
+      "จันทร์ 6",
       "ศุกร์ 7",
       "ศุกร์ 8"
     ],
@@ -133,7 +133,7 @@
       ""
     ],
     "classtime":[
-      "nan 6",
+      "จันทร์ 5, จันทร์ 6",
       "ศุกร์ 7, ศุกร์ 8"
     ],
     "classroom":[
@@ -163,17 +163,17 @@
   {
     "order":8,
     "code":"ค23256",
-    "name":"CUD-EP คณิตศาสตร์การบินขั้นต้น",
+    "name":"CUD-EP คณิตศาสตร์การบินขั้นต้น  (ปิดรายวิชา)",
     "credit":"1",
     "classPerWeek":"2",
-    "group":"1",
-    "instructor":"T.Robin",
-    "enrollment":"25",
-    "electiveQuantity":"เฉพาะนักเรียนโครงการ CUD-EP",
-    "updatedElectiveQuantity":"เฉพาะนักเรียนโครงการ CUD-EP",
-    "classtime":"nan 6",
+    "group":"",
+    "instructor":null,
+    "enrollment":null,
+    "electiveQuantity":"",
+    "updatedElectiveQuantity":"",
+    "classtime":"",
     "classroom":"",
-    "note":"✔"
+    "note":""
   },
   {
     "order":9,
@@ -186,7 +186,7 @@
     "enrollment":"20",
     "electiveQuantity":"เฉพาะนักเรียนในโครงการที่ผ่านการคัดเลือก",
     "updatedElectiveQuantity":"เฉพาะนักเรียนในโครงการที่ผ่านการคัดเลือก",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -321,7 +321,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -473,7 +473,7 @@
     ],
     "classtime":[
       "อังคาร 1, อังคาร 2",
-      "nan 6"
+      "จันทร์ 5, จันทร์ 6"
     ],
     "classroom":[
       "",
@@ -495,7 +495,7 @@
     "enrollment":"20",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -549,7 +549,7 @@
     "enrollment":"20",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -602,7 +602,7 @@
     "classtime":[
       "อังคาร 2",
       "พฤหัสบดี 5",
-      "nan 6"
+      "จันทร์ 6"
     ],
     "classroom":[
       "",
@@ -653,7 +653,7 @@
     ],
     "classtime":[
       "ศุกร์ 7",
-      "",
+      "จันทร์ 5",
       "พฤหัสบดี 6",
       "อังคาร 1"
     ],
@@ -697,7 +697,7 @@
       ""
     ],
     "classtime":[
-      "",
+      "จันทร์ 5",
       "พฤหัสบดี 5"
     ],
     "classroom":[
@@ -720,7 +720,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"",
+    "classtime":"จันทร์ 5",
     "classroom":"",
     "note":"✔"
   },
@@ -751,7 +751,7 @@
       ""
     ],
     "classtime":[
-      "nan 6",
+      "จันทร์ 5, จันทร์ 6",
       "ศุกร์ 7, ศุกร์ 8"
     ],
     "classroom":[
@@ -791,7 +791,7 @@
     ],
     "classtime":[
       "ศุกร์ 8",
-      "nan 6"
+      "จันทร์ 6"
     ],
     "classroom":[
       "",
@@ -813,7 +813,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },
@@ -858,7 +858,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 6",
+    "classtime":"จันทร์ 5, จันทร์ 6",
     "classroom":"",
     "note":"✔"
   },

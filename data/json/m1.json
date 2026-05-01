@@ -40,7 +40,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
     "note":"✔"
   },
@@ -162,7 +162,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 8",
     "classroom":"",
     "note":""
   },
@@ -222,7 +222,7 @@
     "enrollment":"20",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
     "note":"✔"
   },
@@ -327,7 +327,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
     "note":"✔"
   },
@@ -387,7 +387,7 @@
     "enrollment":"25",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
     "note":"✔"
   },
@@ -417,7 +417,7 @@
     "enrollment":"20",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
     "note":"✔"
   },
@@ -558,7 +558,7 @@
       ""
     ],
     "classtime":[
-      "nan 8",
+      "จันทร์ 8",
       "พฤหัสบดี 6",
       "ศุกร์ 2"
     ],
@@ -606,7 +606,7 @@
     ],
     "classtime":[
       "พุธ 8",
-      "",
+      "จันทร์ 7",
       "ศุกร์ 1"
     ],
     "classroom":[
@@ -654,7 +654,7 @@
     "classtime":[
       "พฤหัสบดี 5",
       "ศุกร์ 2",
-      ""
+      "จันทร์ 7"
     ],
     "classroom":[
       "",
@@ -708,7 +708,7 @@
     "enrollment":"35",
     "electiveQuantity":"-",
     "updatedElectiveQuantity":"-",
-    "classtime":"nan 8",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
     "note":"✔"
   },

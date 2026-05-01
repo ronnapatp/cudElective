@@ -37,19 +37,31 @@ def getGoogleSheet(url, outFile):
 
 def csvToJson(filePath, outputFile, grade_label):
     df_raw = pd.read_csv(filePath, header=None)
-    
-    day_headers = df_raw.iloc[1, 10:32].ffill().tolist()
-    period_headers = df_raw.iloc[2, 10:32].fillna('').tolist()
+
+    # Detect format: m1-3 has schedule cols at 9-16, m4-6 has at 10-25
+    # Check by looking at row 1 col 9 (m1-3 has day header 'จันทร์', m4-6 has 'รหัสวิชา')
+    if df_raw.iloc[1, 9] == 'จันทร์':
+        # m1-3 format: schedule cols 9-16
+        schedule_start = 9
+        schedule_cols = 8
+    else:
+        # m4-6 format: schedule cols 10-25
+        schedule_start = 10
+        schedule_cols = 16
+
+    schedule_end = schedule_start + schedule_cols
+    day_headers = df_raw.iloc[1, schedule_start:schedule_end].ffill().tolist()
+    period_headers = df_raw.iloc[2, schedule_start:schedule_end].fillna('').tolist()
     schedule_labels = [f"{d} {p}".strip() for d, p in zip(day_headers, period_headers)]
-    
+
     rows = []
     for idx, row in df_raw.iloc[5:].iterrows():
         if pd.isna(row[1]) and not pd.isna(row[0]):
             continue
         if pd.isna(row[0]) and pd.isna(row[5]) and pd.isna(row[6]):
             continue
-            
-        active_times = [schedule_labels[i] for i, val in enumerate(row[10:32]) if val == '✔']
+
+        active_times = [schedule_labels[i] for i, val in enumerate(row[schedule_start:schedule_end]) if val == '✔']
         
         rows.append({
             'code': row[0],
