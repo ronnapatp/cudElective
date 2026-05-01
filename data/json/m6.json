@@ -1,29 +1,78 @@
 [
   {
     "order":1,
-    "code":"ว30215",
-    "name":"ฟิสิกส์ 5",
+    "code":"ท30229",
+    "name":"ภารกิจพิชิตสารสนเทศ",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ดร.ปะราลี ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"ศุกร์ 1",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":2,
+    "code":"ท30230",
+    "name":"คิด เขียน สร้าง ด้วยปัญญาประดิษฐ์",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ชนากานต์ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"อังคาร 3, อังคาร 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":3,
+    "code":"ท30231",
+    "name":"สื่อสารให้คลิก พลิกชีวิต\nสู่โอกาส",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.สุภัสรา \/ \nอ.เรือนขวัญ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"จันทร์ 7, จันทร์ 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":4,
+    "code":"ค33231",
+    "name":"คณิตศาสตร์เพิ่มเติม 11",
     "credit":"1.5",
     "classPerWeek":"3",
     "group":[
       "1",
       "2",
       "3",
-      "4"
+      "4",
+      "5"
     ],
     "instructor":[
-      "ผศ.อมรรัตน์",
-      "อ.วรรณา",
-      "อ.พรเทพ",
-      "ผศ.อมรรัตน์"
+      "อ.ธนพัฒน์",
+      "อ.ดร.นที",
+      "อ.วิวัฒน์ \/ อ.ใหม่",
+      "ผศ.กฤติญา",
+      "อ.ใหม่"
     ],
     "enrollment":[
-      "วิทย์-คณิต",
-      "วิทย์-คณิต",
-      "วิทย์-คณิต",
-      "วิทย์-คณิต"
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
     ],
     "electiveQuantity":[
+      "30",
       "30",
       "30",
       "30",
@@ -33,21 +82,25 @@
       "30",
       "30",
       "30",
+      "30",
       "30"
     ],
     "classtime":[
-      "พุธ 6, พฤหัสบดี 7, พฤหัสบดี 8",
-      "จันทร์ 1 (จ0), จันทร์ 2 (จ1), ศุกร์ 1",
-      "จันทร์ 2 (จ1), พุธ 1 (พ0), พุธ 2 (พ1)",
-      "อังคาร 6 (พฤ9), ศุกร์ 1, ศุกร์ 2"
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3",
+      "จันทร์ 1, พุธ 7, พุธ 8",
+      "จันทร์ 1, พุธ 7, พุธ 8"
     ],
     "classroom":[
+      "",
       "",
       "",
       "",
       ""
     ],
     "note":[
+      "-",
       "",
       "",
       "",
@@ -55,56 +108,156 @@
     ]
   },
   {
-    "order":2,
-    "code":"ว33236",
-    "name":"เคมี 6",
-    "credit":"2",
-    "classPerWeek":"4",
+    "order":5,
+    "code":"ค33203",
+    "name":"แคลคูลัส CUD-AP 1",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ดร.นที \/ \nอ.ธนพัฒน์",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"3",
+    "updatedElectiveQuantity":"3",
+    "classtime":"อังคาร 7, อังคาร 8",
+    "classroom":"",
+    "note":"เฉพาะนักเรียนโครงการ CUD-AP"
+  },
+  {
+    "order":6,
+    "code":"ค33213",
+    "name":"คณิตศาสตร์ประยุกต์เพื่อ\nการศึกษาต่อ",
+    "credit":"1",
+    "classPerWeek":"2",
     "group":[
       "1",
-      "2",
-      "3"
+      "2"
     ],
     "instructor":[
-      "อ.พรพรหม",
-      "อ.พรพรหม",
-      "อ.รัฏฏิกา"
+      "อ.ธนพัฒน์",
+      "อ.อภิสรา"
     ],
     "enrollment":[
-      "วิทย์-คณิต",
-      "วิทย์-คณิต",
-      "วิทย์-คณิต"
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
     ],
     "electiveQuantity":[
-      "33",
-      "33",
-      "33"
+      "30",
+      "30"
     ],
     "updatedElectiveQuantity":[
-      "33",
-      "33",
-      "33"
+      "30",
+      "30"
     ],
     "classtime":[
-      "จันทร์ 3, จันทร์ 4, อังคาร 6 (พฤ9), ศุกร์ 4",
-      "จันทร์ 7, จันทร์ 8, พุธ 4, ศุกร์ 2",
-      "จันทร์ 3, จันทร์ 4, พุธ 4, ศุกร์ 4"
+      "พฤหัสบดี 7, พฤหัสบดี 8",
+      "พุธ 7, พุธ 8"
     ],
     "classroom":[
-      "",
       "",
       ""
     ],
     "note":[
-      "",
-      "",
+      "-",
       ""
     ]
   },
   {
-    "order":3,
-    "code":"ว33255",
-    "name":"ชีววิทยา 5",
+    "order":7,
+    "code":"ค33221",
+    "name":"พื้นฐานคณิตศาสตร์สำหรับศึกษาต่อ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":[
+      "1",
+      "2"
+    ],
+    "instructor":[
+      "อ.ไพโรจน์",
+      "อ.มานพ"
+    ],
+    "enrollment":[
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
+    ],
+    "electiveQuantity":[
+      "30",
+      "30"
+    ],
+    "updatedElectiveQuantity":[
+      "30",
+      "30"
+    ],
+    "classtime":[
+      "ศุกร์ 2, ศุกร์ 3",
+      "อังคาร 7, อังคาร 8"
+    ],
+    "classroom":[
+      "",
+      ""
+    ],
+    "note":[
+      "-",
+      ""
+    ]
+  },
+  {
+    "order":8,
+    "code":"ค30219",
+    "name":"โปรแกรมสเปรดชีตเพื่อ\nการทำงาน",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":[
+      "1",
+      "2"
+    ],
+    "instructor":[
+      "อ.ธนพัฒน์",
+      "อ.มานพ"
+    ],
+    "enrollment":[
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
+    ],
+    "electiveQuantity":[
+      "25",
+      "25"
+    ],
+    "updatedElectiveQuantity":[
+      "25",
+      "25"
+    ],
+    "classtime":[
+      "จันทร์ 7, จันทร์ 8",
+      "อังคาร 3, อังคาร 4"
+    ],
+    "classroom":[
+      "",
+      ""
+    ],
+    "note":[
+      "-",
+      ""
+    ]
+  },
+  {
+    "order":9,
+    "code":"ค33241",
+    "name":"การเขียนบทความวิจัย",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ดร.ภัทรภร \/ \nอ.ดร.กรวรรณ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"8",
+    "updatedElectiveQuantity":"8",
+    "classtime":"พฤหัสบดี 8",
+    "classroom":"",
+    "note":"เรียนรวม\nม.4-6"
+  },
+  {
+    "order":10,
+    "code":"ว33254",
+    "name":"ชีววิทยา 4",
     "credit":"1.5",
     "classPerWeek":"3",
     "group":[
@@ -123,19 +276,19 @@
       "วิทย์-คณิต"
     ],
     "electiveQuantity":[
-      "30",
-      "30",
-      "30"
+      "35",
+      "35",
+      "35"
     ],
     "updatedElectiveQuantity":[
-      "30",
-      "30",
-      "30"
+      "35",
+      "35",
+      "35"
     ],
     "classtime":[
-      "พุธ 1 (พ0), พุธ 2 (พ1), ศุกร์ 1",
-      "พุธ 6, พฤหัสบดี 1, พฤหัสบดี 2",
-      "จันทร์ 2 (จ1), พุธ 1 (พ0), พุธ 2 (พ1)"
+      "พุธ 1, พุธ 2, ศุกร์ 1",
+      "จันทร์ 3, จันทร์ 4, ศุกร์ 6",
+      "จันทร์ 1, พุธ 7, พุธ 8"
     ],
     "classroom":[
       "",
@@ -143,30 +296,117 @@
       ""
     ],
     "note":[
+      "-",
+      "",
+      ""
+    ]
+  },
+  {
+    "order":11,
+    "code":"ว30235",
+    "name":"เคมี 5",
+    "credit":"2",
+    "classPerWeek":"4",
+    "group":[
+      "1",
+      "2",
+      "3"
+    ],
+    "instructor":[
+      "อ.พรพรหม",
+      "อ.พรพรหม",
+      "อ.รัฏฏิกา"
+    ],
+    "enrollment":[
+      "วิทย์-คณิต",
+      "วิทย์-คณิต",
+      "วิทย์-คณิต"
+    ],
+    "electiveQuantity":[
+      "35",
+      "35",
+      "35"
+    ],
+    "updatedElectiveQuantity":[
+      "35",
+      "35",
+      "35"
+    ],
+    "classtime":[
+      "จันทร์ 7, จันทร์ 8, พุธ 4, ศุกร์ 4",
+      "อังคาร 3, อังคาร 4, พฤหัสบดี 7, พฤหัสบดี 8",
+      "จันทร์ 3, จันทร์ 4, พุธ 4, ศุกร์ 4"
+    ],
+    "classroom":[
+      "",
+      "",
+      ""
+    ],
+    "note":[
+      "-",
+      "",
+      ""
+    ]
+  },
+  {
+    "order":12,
+    "code":"ว30214",
+    "name":"ฟิสิกส์ 4",
+    "credit":"1.5",
+    "classPerWeek":"3",
+    "group":[
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "instructor":[
+      "อ.วรรณา",
+      "อ.พรเทพ",
+      "อ.วรรณา",
+      "อ.วรรณา"
+    ],
+    "enrollment":[
+      "วิทย์-คณิต",
+      "วิทย์-คณิต",
+      "วิทย์-คณิต",
+      "วิทย์-คณิต"
+    ],
+    "electiveQuantity":[
+      "35",
+      "35",
+      "35",
+      "35"
+    ],
+    "updatedElectiveQuantity":[
+      "35",
+      "35",
+      "35",
+      "35"
+    ],
+    "classtime":[
+      "จันทร์ 3, จันทร์ 4, ศุกร์ 6",
+      "จันทร์ 1, พุธ 7, พุธ 8",
+      "พุธ 1, พุธ 2, ศุกร์ 1",
+      "อังคาร 6, ศุกร์ 2, ศุกร์ 3"
+    ],
+    "classroom":[
+      "",
+      "",
+      "",
+      ""
+    ],
+    "note":[
+      "-",
       "",
       "",
       ""
     ]
   },
   {
-    "order":4,
-    "code":"ว33246",
-    "name":"ทัศนศึกษาเชิงวิทยาศาสตร์",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.สายสวาท",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 3, จันทร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":5,
-    "code":"ว33256",
-    "name":"ตะลุยโจทย์ชีววิทยา",
+    "order":13,
+    "code":"ว33257",
+    "name":"ตะลุยโจทย์เคมี",
     "credit":"1",
     "classPerWeek":"2",
     "group":[
@@ -174,8 +414,8 @@
       "2"
     ],
     "instructor":[
-      "ผศ.น้ำผึ้้ง",
-      "ผศ.น้ำผึ้้ง"
+      "อ.ธาริณี",
+      "อ.ธาริณี"
     ],
     "enrollment":[
       "วิทย์-คณิต",
@@ -190,306 +430,376 @@
       "35"
     ],
     "classtime":[
-      "พุธ 3, ศุกร์ 7",
-      "พุธ 6, ศุกร์ 4"
+      "อังคาร 3, อังคาร 4",
+      "พุธ 1, พุธ 2"
     ],
     "classroom":[
       "",
       ""
     ],
     "note":[
-      "",
+      "-",
       ""
     ]
-  },
-  {
-    "order":6,
-    "code":"ว33257",
-    "name":"ตะลุยโจทย์เคมี",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.รัฏฏิกา",
-    "enrollment":"วิทย์-คณิต",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พฤหัสบดี 1, พฤหัสบดี 2",
-    "classroom":"",
-    "note":"นักเรียนที่ลงทะเบียนรายวิชา ตะลุยโจทย์เคมี ในภาคเรียนที่ 1 ไม่สามารถลงทะเบียนได้"
-  },
-  {
-    "order":7,
-    "code":"ว33258",
-    "name":"ตะลุยโจทย์เคมี 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ธาริณี",
-    "enrollment":"วิทย์-คณิต",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พฤหัสบดี 1, พฤหัสบดี 2",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":8,
-    "code":"ว30209",
-    "name":"ปฏิบัติการเคมี",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ดร.ณัฐธยาน์",
-    "enrollment":"วิทย์-คณิต",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":"นักเรียนที่ลงทะเบียนรายวิชา ปฏิบัติการเคมี ในภาคเรียนที่ 1 ไม่สามารถลงทะเบียนได้"
-  },
-  {
-    "order":9,
-    "code":"ว30218",
-    "name":"เรื่องของคลื่น",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"ผศ.อมรรัตน์",
-    "enrollment":"วิทย์-คณิต",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"ศุกร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":10,
-    "code":"ว30270",
-    "name":"พื้นฐานการเขียนโปรแกรมภาษาซี",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.อมรินทร์",
-    "enrollment":"วิทย์-คณิต",
-    "electiveQuantity":"8",
-    "updatedElectiveQuantity":"8",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":11,
-    "code":"ค33232",
-    "name":"คณิตศาสตร์เพิ่มเติม 12",
-    "credit":"1.5",
-    "classPerWeek":"3",
-    "group":[
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "instructor":[
-      "อ.วิวัฒน์\n(ปิดรายวิชา)",
-      "อ.อภิสรา",
-      "อ.ธนพัฒน์",
-      "อ.วิวัฒน์",
-      "อ.ดร.นที"
-    ],
-    "enrollment":[
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม"
-    ],
-    "electiveQuantity":[
-      "31",
-      "31",
-      "31",
-      "31",
-      "31"
-    ],
-    "updatedElectiveQuantity":[
-      "31",
-      "31",
-      "31",
-      "31",
-      "31"
-    ],
-    "classtime":[
-      "จันทร์ 1 (จ0), พฤหัสบดี 1, พฤหัสบดี 2",
-      "จันทร์ 1 (จ0), พฤหัสบดี 1, พฤหัสบดี 2",
-      "พุธ 3, ศุกร์ 7, ศุกร์ 8",
-      "พุธ 3, ศุกร์ 7, ศุกร์ 8",
-      "พุธ 3, ศุกร์ 7, ศุกร์ 8"
-    ],
-    "classroom":[
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "note":[
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "order":12,
-    "code":"ค33204",
-    "name":"แคลคูลัส CUD-AP 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ดร.นที \/ \nอ.ธนพัฒน์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"5",
-    "updatedElectiveQuantity":"5",
-    "classtime":"จันทร์ 1 (จ0), จันทร์ 2 (จ1)",
-    "classroom":"",
-    "note":"เฉพาะนักเรียนในโครงการ\nที่ผ่าน\nการคัดเลือก"
-  },
-  {
-    "order":13,
-    "code":"ค33213",
-    "name":"คณิตศาสตร์ประยุกต์เพื่อการศึกษาต่อ",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ธนพัฒน์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"จันทร์ 3, จันทร์ 4",
-    "classroom":"",
-    "note":""
   },
   {
     "order":14,
-    "code":"ค33221",
-    "name":"พื้นฐานคณิตศาสตร์สำหรับศึกษาต่อ\n\n(ตอนเรียน 1 เปลี่ยนเวลา)",
+    "code":"ว30204",
+    "name":"ปฏิบัติการเคมี",
     "credit":"1",
     "classPerWeek":"2",
     "group":[
       "1",
-      "2",
-      "3"
+      "2"
     ],
     "instructor":[
-      "อ.ไพโรจน์",
-      "อ.มานพ",
-      "อ.วิวัฒน์\n(รายวิชาใหม่)"
+      "อ.พรพรหม",
+      "อ.พรพรหม"
     ],
     "enrollment":[
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม"
+      "วิทย์-คณิต",
+      "วิทย์-คณิต"
     ],
     "electiveQuantity":[
-      "35",
-      "35",
-      "35"
+      "25",
+      "25"
     ],
     "updatedElectiveQuantity":[
-      "35",
-      "35",
-      "35"
+      "25",
+      "25"
     ],
     "classtime":[
-      "พุธ 1 (พ0), พุธ 2 (พ1)",
-      "อังคาร 4 (พ9), ศุกร์ 4",
-      "จันทร์ 1 (จ0), อังคาร 4 (พ9)"
+      "อังคาร 7, อังคาร 8",
+      "พุธ 1, พุธ 2"
     ],
     "classroom":[
-      "",
       "",
       ""
     ],
     "note":[
-      "",
-      "",
+      "-",
       ""
     ]
   },
   {
     "order":15,
-    "code":"ค33242",
-    "name":"เสริมทักษะการวิจัย",
-    "credit":"0.5",
-    "classPerWeek":"1",
+    "code":"ว30289",
+    "name":"กิจกรรมชีววิทยา 1",
+    "credit":"1",
+    "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.ดร.กรวรรณ \/ \nอ.ดร.ภัทรภร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"8",
-    "updatedElectiveQuantity":"8",
-    "classtime":"พฤหัสบดี 7",
+    "instructor":"อ.ศุจิกา",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"25",
+    "updatedElectiveQuantity":"25",
+    "classtime":"ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
-    "note":""
+    "note":"-"
   },
   {
     "order":16,
-    "code":"ค30222",
-    "name":"ภาษีรีเทิร์น",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":[
-      "1",
-      "2"
-    ],
-    "instructor":[
-      "อ.ธนพัฒน์",
-      "อ.ธนพัฒน์"
-    ],
-    "enrollment":[
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม"
-    ],
-    "electiveQuantity":[
-      "25",
-      "25"
-    ],
-    "updatedElectiveQuantity":[
-      "25",
-      "25"
-    ],
-    "classtime":[
-      "อังคาร 4 (พ9)",
-      "พุธ 4"
-    ],
-    "classroom":[
-      "",
-      ""
-    ],
-    "note":[
-      "",
-      ""
-    ]
+    "code":"ว30223",
+    "name":"ไมโครคอนโทรลเลอร์",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"ผศ. ดร.ชยการ",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"จันทร์ 3, จันทร์ 4",
+    "classroom":"",
+    "note":"-"
   },
   {
     "order":17,
-    "code":"ค30214",
-    "name":"เสริมทักษะคณิตศาสตร์",
-    "credit":"0.5",
-    "classPerWeek":"1",
+    "code":"ว30224",
+    "name":"เทคโนโลยีทางการแพทย์",
+    "credit":"1",
+    "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.ดร.กุลนิดา",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 8",
+    "instructor":"อ.พญ.พิมพกา \/ และคณะ",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
-    "note":""
+    "note":"-"
   },
   {
     "order":18,
-    "code":"ค30219",
-    "name":"โปรแกรมสเปรดชีตเพื่อการทำงาน",
+    "code":"ว30220",
+    "name":"วัสดุวิศวกรรมในชีวิตประจำวัน",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"รศ. ดร.ปฐมา ",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"อังคาร 7, อังคาร 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":19,
+    "code":"ว30225",
+    "name":"ความถนัดทางวิชาชีพแพทย์",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"ผศ.ดร.\nนพ.ชุติวิชัย \n\/และคณะ",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"อังคาร 7, อังคาร 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":20,
+    "code":"ว30240",
+    "name":"อาหารสมุนไพรและโภชนาการ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.นลิน \/ อ.ภัสรา \/ อ.มินท์ธิยา \n\/ อ.ฐิตินันท์ ",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"อังคาร 3, อังคาร 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":21,
+    "code":"ส33234",
+    "name":"เสน่ห์วัฒนธรรมโลก",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.อภิรดี",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"จันทร์ 1",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":22,
+    "code":"ส33241",
+    "name":"วิถีบางกอก",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.พลอยสิริ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"อังคาร 3, อังคาร 4",
+    "classroom":"",
+    "note":"มีการทัศนศึกษาภายนอกโรงเรียน"
+  },
+  {
+    "order":23,
+    "code":"ส33255",
+    "name":"กฏหมายทรัพย์สินทางปัญญาที่ควรรู้",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.สรายุทธ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"จันทร์ 3, จันทร์ 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":24,
+    "code":"ส33256",
+    "name":"ออกแบบเมืองสร้างสุข",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.บุญฤทธิ์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"อังคาร 6",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":25,
+    "code":"ส33257",
+    "name":"การประกอบการและ\nการตลาดดิจิทัล",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.กมลชนก",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"ศุกร์ 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":26,
+    "code":"ส33258",
+    "name":"มนุษย์มิติ",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ดร.สิริภัทร",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"ศุกร์ 1",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":27,
+    "code":"ส33259",
+    "name":"แบกเป้ตะลุยโลก",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ปรารถนา",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"ศุกร์ 6",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":28,
+    "code":"ส33260",
+    "name":"ประเด็นในโลกร่วมสมัย",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ดร.สิริภัทร",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"พุธ 4, ศุกร์ 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":29,
+    "code":"ส33250",
+    "name":"ศาสตร์แห่งความสุขและ\nการมองโลก",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ดร.กนก",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"พุธ 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":30,
+    "code":"ส30233",
+    "name":"เศรษฐศาสตร์น่ารู้",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ดร.พิเศษพร \/ \nอ.ชยวัฒน์ \/ \nอ.นลิน",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"นักเรียนที่เคยลงทะเบียนรายวิชานี้ใน \nม.4-5 ห้าม\nลงทะเบียนเรียนซ้ำ"
+  },
+  {
+    "order":31,
+    "code":"ส30241",
+    "name":"เศรษฐกิจหมุนเวียน",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.นวพรรณ \/ \nอ.สุประดิษฐ์ \/ \nอ.ดร.สุจิตรา \/\nอ.วรุณ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"อังคาร 7, อังคาร 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":32,
+    "code":"พ33242",
+    "name":"สบาย ๆ ผ่อนคลายด้วยธรรมชาติบำบัด",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.จารุวรรณ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"จันทร์ 1",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":33,
+    "code":"พ33238",
+    "name":"ว่ายน้ำเพื่อสุขภาพ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ดร.ธานินทร์ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"พุธ 7, พุธ 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":34,
+    "code":"พ33231",
+    "name":"ความปลอดภัยในการเล่นกีฬา",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ดร.ชญาภัสร์ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"25",
+    "updatedElectiveQuantity":"25",
+    "classtime":"พุธ 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":35,
+    "code":"พ33270",
+    "name":"การจัดการกีฬาและธุรกิจกีฬา",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ธนวิทย์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"พุธ 7, พุธ 8",
+    "classroom":"",
+    "note":"มีการทัศนศึกษาภายนอกโรงเรียน"
+  },
+  {
+    "order":36,
+    "code":"พ33262",
+    "name":"การเป็นผู้ตัดสินฟุตบอล",
     "credit":"1",
     "classPerWeek":"2",
     "group":[
@@ -497,8 +807,8 @@
       "2"
     ],
     "instructor":[
-      "อ.มานพ",
-      "อ.มานพ"
+      "อ.พชรพล",
+      "อ.วชิรวิทย์"
     ],
     "enrollment":[
       "ทุกกลุ่ม",
@@ -514,231 +824,21 @@
     ],
     "classtime":[
       "จันทร์ 3, จันทร์ 4",
-      "พฤหัสบดี 7, พฤหัสบดี 8"
+      "ศุกร์ 2, ศุกร์ 3"
     ],
     "classroom":[
       "",
       ""
     ],
     "note":[
-      "",
+      "-",
       ""
     ]
   },
   {
-    "order":19,
-    "code":"ค33253",
-    "name":"CUD-EP การเงินและการบัญชีเบื้องต้น\n\n(ปิดรายวิชา)",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"T.Justin",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"30",
-    "updatedElectiveQuantity":"30",
-    "classtime":"ศุกร์ 1, ศุกร์ 2",
-    "classroom":"",
-    "note":"เรียนเป็น\nภาษาอังกฤษ"
-  },
-  {
-    "order":20,
-    "code":"ค30253",
-    "name":"CUD-EP พื้นฐานการเป็น\nผู้ประกอบการ\n\n(ปิดรายวิชา)",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"T.Justin",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"15",
-    "updatedElectiveQuantity":"15",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"เรียนเป็น\nภาษาอังกฤษ"
-  },
-  {
-    "order":21,
-    "code":"ค30252",
-    "name":"CUD-EP คณิตศาสตร์การพยากรณ์",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"T.Jun-Jun",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"8",
-    "updatedElectiveQuantity":"8",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"เรียนเป็น\nภาษาอังกฤษ"
-  },
-  {
-    "order":22,
-    "code":"ท33211",
-    "name":"ภาษาไทยวิชาการ",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.นวพร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":23,
-    "code":"ท30225",
-    "name":"ภาษาไทยพลิกแพลง",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ศุภกร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"จันทร์ 7, จันทร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":24,
-    "code":"ส33253",
-    "name":"กลยุทธ์การทูต",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"อ.พงษ์ภัค",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"อังคาร 6 (พฤ9)",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":25,
-    "code":"ส33252",
-    "name":"ประวัติศาสตร์ในวรรณกรรมและภาพยนตร์",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.พลอยสิริ",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พุธ 1 (พ0), พุธ 2 (พ1)",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":26,
-    "code":"ส33251",
-    "name":"ว่าด้วยเรื่องเพศในมิติสังคม",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"อ.วิทวัส",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"จันทร์ 2 (จ1)",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":27,
-    "code":"ส33262",
-    "name":"งานภาคสนามในวิชาสังคมศึกษา",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.วิทวัส",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พุธ 3, พุธ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":28,
-    "code":"ส33261",
-    "name":"การป้องกันตัวจากศาสตร์มืด",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.กมลชนก",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":29,
-    "code":"ส33259",
-    "name":"แบกเป้ตะลุยโลก",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"อ.ปรารถนา",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พุธ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":30,
-    "code":"ส33264",
-    "name":"แรงงานมือใหม่กับสิทธิที่ควรรู้",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ธีรภัทร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"จันทร์ 7, จันทร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":31,
-    "code":"ส30233",
-    "name":"เศรษฐศาสตร์น่ารู้",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ดร.พิเศษพร \/ \nอ.ศิริธร \/  \nอ.ชยวัฒน์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"9",
-    "updatedElectiveQuantity":"9",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":32,
-    "code":"ง30270",
-    "name":"กราฟิกสร้างอาชีพ",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.วนาลี",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"18",
-    "updatedElectiveQuantity":"18",
-    "classtime":"พุธ 1 (พ0), พุธ 2 (พ1)",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":33,
-    "code":"ง30274",
-    "name":"นวัตกรรมการแปรรูปผลผลิตทางการเกษตร",
+    "order":37,
+    "code":"พ33233",
+    "name":"แบดมินตันเพื่อสุขภาพ",
     "credit":"1",
     "classPerWeek":"2",
     "group":[
@@ -746,8 +846,8 @@
       "2"
     ],
     "instructor":[
-      "อ.ดร.อริสา",
-      "อ.ดร.อริสา"
+      "อ.วชิรวิทย์",
+      "อ.ทินวัฒน์ "
     ],
     "enrollment":[
       "ทุกกลุ่ม",
@@ -762,20 +862,323 @@
       "20"
     ],
     "classtime":[
-      "พฤหัสบดี 1, พฤหัสบดี 2",
-      "ศุกร์ 1, ศุกร์ 2"
+      "จันทร์ 7, จันทร์ 8",
+      "อังคาร 7, อังคาร 8"
     ],
     "classroom":[
       "",
       ""
     ],
     "note":[
-      "",
+      "-",
       ""
     ]
   },
   {
-    "order":34,
+    "order":38,
+    "code":"พ33281",
+    "name":"พิคเคิลบอล",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ทินวัฒน์ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"15",
+    "updatedElectiveQuantity":"15",
+    "classtime":"จันทร์ 3, จันทร์ 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":39,
+    "code":"พ33236",
+    "name":"หลักการเสริมสร้างสมรรถภาพทางกาย",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ทินวัฒน์ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"ศุกร์ 2, ศุกร์ 3",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":40,
+    "code":"พ33263",
+    "name":"นันทนาการเพื่อชีวิต 1",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ทรงพล",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"25",
+    "updatedElectiveQuantity":"25",
+    "classtime":"จันทร์ 7, จันทร์ 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":41,
+    "code":"พ33276",
+    "name":"บาสเกตบอล 3 คนเพื่อ\nการแข่งขัน",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":[
+      "1",
+      "2"
+    ],
+    "instructor":[
+      "อ.ฮานาฟีย์ ",
+      "อ.สุพัฒน์พงศ์"
+    ],
+    "enrollment":[
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
+    ],
+    "electiveQuantity":[
+      "20",
+      "20"
+    ],
+    "updatedElectiveQuantity":[
+      "20",
+      "20"
+    ],
+    "classtime":[
+      "พุธ 7, พุธ 8",
+      "ศุกร์ 2, ศุกร์ 3"
+    ],
+    "classroom":[
+      "",
+      ""
+    ],
+    "note":[
+      "-",
+      ""
+    ]
+  },
+  {
+    "order":42,
+    "code":"พ33259",
+    "name":"กีฬาเทเบิลเทนนิส",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ดร.ชญาภัสร์ ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"พุธ 1, พุธ 2",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":43,
+    "code":"พ33282",
+    "name":"มวยสากลพื้นฐาน",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ชนนภัทร",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"อังคาร 6",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":44,
+    "code":"พ33283",
+    "name":"ทักษะการป้องกันตัวใน\nชีวิตประจำวัน",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ชนนภัทร",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"ศุกร์ 6",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":45,
+    "code":"ศ30269",
+    "name":"ทักษะดนตรีไทยขั้นสูง",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.สโรชา",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"7",
+    "updatedElectiveQuantity":"7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"เรียนรวม\nม.4-6"
+  },
+  {
+    "order":46,
+    "code":"ศ30265",
+    "name":"ปฏิบัติการเครื่องดนตรีตามความถนัด",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.สุปัฏฐ์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"7",
+    "updatedElectiveQuantity":"7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"เรียนรวม\nม.4-6, เฉพาะนักเรียน\nวงโยธวาทิตที่ผ่าน\nการคัดเลือก"
+  },
+  {
+    "order":47,
+    "code":"ศ30257",
+    "name":"ต่อยอดงานศิลป์ผ่านอาร์ตแล็บ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.วนาลี",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"7",
+    "updatedElectiveQuantity":"7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"เรียนรวม\nม.4-6, มีค่าใช้จ่ายสำหรับอุปกรณ์ 500-1,000 บาท, มีการทัศนศึกษาภายนอกโรงเรียน"
+  },
+  {
+    "order":48,
+    "code":"ศ30261",
+    "name":"ออกแบบและสังเคราะห์\nความคิดทางศิลปะ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.อัฐพล",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"7",
+    "updatedElectiveQuantity":"7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"เรียนรวม\nม.4-6, มีค่าใช้จ่ายสำหรับอุปกรณ์ 500-1,000 บาท, มีการทัศนศึกษาภายนอกโรงเรียน"
+  },
+  {
+    "order":49,
+    "code":"ศ30273",
+    "name":"ทักษะประกวดดนตรีไทยขั้นสูง",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ภูวิศ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"7",
+    "updatedElectiveQuantity":"7",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"เรียนรวม\nม.4-6, เฉพาะนักดนตรีไทยที่ผ่านคัดเลือก"
+  },
+  {
+    "order":50,
+    "code":"ศ33243",
+    "name":"ความถนัดทางสถาปัตยกรรมศาสตร์",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.วิวัฒน์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"25",
+    "updatedElectiveQuantity":"25",
+    "classtime":"อังคาร 7, อังคาร 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":51,
+    "code":"ศ30251",
+    "name":"เซรามิกเบื้องต้น",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.สมศักดิ์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"มีค่าใช้จ่ายสำหรับอุปกรณ์ไม่เกิน 500 บาท"
+  },
+  {
+    "order":52,
+    "code":"ศ30252",
+    "name":"การถ่ายภาพเพื่อการโฆษณา",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.เด่นสิน \/ อ.วรัท \n\/ อ.กานต์ \/ \nอ.สิทธิกร",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":53,
+    "code":"ง33263",
+    "name":"ประดิษฐ์ง่ายๆ ด้วยตนเอง",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":[
+      "1",
+      "2"
+    ],
+    "instructor":[
+      "อ.รัชดาวัลย์",
+      "อ.รัชดาวัลย์"
+    ],
+    "enrollment":[
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
+    ],
+    "electiveQuantity":[
+      "25",
+      "25"
+    ],
+    "updatedElectiveQuantity":[
+      "25",
+      "25"
+    ],
+    "classtime":[
+      "พุธ 7, พุธ 8",
+      "จันทร์ 7, จันทร์ 8"
+    ],
+    "classroom":[
+      "",
+      ""
+    ],
+    "note":[
+      "-",
+      ""
+    ]
+  },
+  {
+    "order":54,
+    "code":"ง30291",
+    "name":"ขนมไทยอะไรเอ่ย",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.ศิรดา",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"พุธ 7, พุธ 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":55,
     "code":"ง30278",
     "name":"เครื่องประดับทำมือ",
     "credit":"1",
@@ -793,114 +1196,15 @@
       "ทุกกลุ่ม"
     ],
     "electiveQuantity":[
-      "20",
-      "20"
+      "25",
+      "25"
     ],
     "updatedElectiveQuantity":[
-      "20",
-      "20"
+      "25",
+      "25"
     ],
     "classtime":[
-      "พุธ 1 (พ0), พุธ 2 (พ1)",
-      "ศุกร์ 1, ศุกร์ 2"
-    ],
-    "classroom":[
-      "",
-      ""
-    ],
-    "note":[
-      "",
-      ""
-    ]
-  },
-  {
-    "order":35,
-    "code":"ง30291",
-    "name":"ขนมไทยอะไรเอ่ย",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ศิรดา",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"20",
-    "updatedElectiveQuantity":"20",
-    "classtime":"จันทร์ 1 (จ0), จันทร์ 2 (จ1)",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":36,
-    "code":"ง30297",
-    "name":"ห้องเรียนสกัดสมุนไพร",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.โมริสา",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"20",
-    "updatedElectiveQuantity":"20",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":37,
-    "code":"ง30222",
-    "name":"ถ่ายภาพและตัดต่อดิจิทัล",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"ผศ. ดร.นาถวดี",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"7",
-    "updatedElectiveQuantity":"7",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":38,
-    "code":"ศ33236",
-    "name":"การบรรเลงดนตรีไทยขั้นนำ",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ภูวิศ",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"20",
-    "updatedElectiveQuantity":"20",
-    "classtime":"จันทร์ 1 (จ0), จันทร์ 2 (จ1)",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":39,
-    "code":"ศ33242",
-    "name":"ศิลปะในการเดินทาง",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":[
-      "1",
-      "2"
-    ],
-    "instructor":[
-      "อ.ดร.อติญา",
-      "อ.ดร.อติญา"
-    ],
-    "enrollment":[
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม"
-    ],
-    "electiveQuantity":[
-      "20",
-      "20"
-    ],
-    "updatedElectiveQuantity":[
-      "20",
-      "20"
-    ],
-    "classtime":[
-      "พุธ 3, พุธ 4",
+      "พุธ 1, พุธ 2",
       "พฤหัสบดี 7, พฤหัสบดี 8"
     ],
     "classroom":[
@@ -908,59 +1212,14 @@
       ""
     ],
     "note":[
-      "",
+      "-",
       ""
     ]
   },
   {
-    "order":40,
-    "code":"ศ30239",
-    "name":"ปฏิบัติการวงดนตรีเชมเบอร์ 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.สุปัฏฐ์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"เฉพาะนักเรียนวงโยธวาทิต\nที่ผ่าน\nการคัดเลือก"
-  },
-  {
-    "order":41,
-    "code":"ศ30241",
-    "name":"ปฏิบัติการวงดนตรีเชมเบอร์ 4",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.สุปัฏฐ์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":42,
-    "code":"ศ30243",
-    "name":"ปฏิบัติการวงดนตรีเชมเบอร์ 6",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.สุปัฏฐ์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":43,
-    "code":"ศ33239",
-    "name":"ทักษะศิลปะตามถนัด 6",
+    "order":56,
+    "code":"ง30296",
+    "name":"เพิ่มคุณค่าให้ผ้าแบบอาร์ตๆ",
     "credit":"1",
     "classPerWeek":"2",
     "group":[
@@ -968,7 +1227,46 @@
       "2"
     ],
     "instructor":[
-      "อ.อัฐพล",
+      "อ.ศยามล",
+      "อ.ศยามล"
+    ],
+    "enrollment":[
+      "ทุกกลุ่ม",
+      "ทุกกลุ่ม"
+    ],
+    "electiveQuantity":[
+      "10",
+      "10"
+    ],
+    "updatedElectiveQuantity":[
+      "10",
+      "10"
+    ],
+    "classtime":[
+      "อังคาร 3, อังคาร 4",
+      "พุธ 7, พุธ 8"
+    ],
+    "classroom":[
+      "",
+      ""
+    ],
+    "note":[
+      "-",
+      ""
+    ]
+  },
+  {
+    "order":57,
+    "code":"ง30299",
+    "name":"กราฟิกพลิกอาชีพ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":[
+      "1",
+      "2"
+    ],
+    "instructor":[
+      "อ.วนาลี",
       "อ.วนาลี"
     ],
     "enrollment":[
@@ -976,109 +1274,79 @@
       "ทุกกลุ่ม"
     ],
     "electiveQuantity":[
-      "7",
-      "7"
+      "17",
+      "17"
     ],
     "updatedElectiveQuantity":[
-      "7",
-      "7"
+      "17",
+      "17"
     ],
     "classtime":[
-      "พฤหัสบดี 7, พฤหัสบดี 8",
-      "พฤหัสบดี 7, พฤหัสบดี 8"
+      "พุธ 1, พุธ 2",
+      "ศุกร์ 2, ศุกร์ 3"
     ],
     "classroom":[
       "",
       ""
     ],
     "note":[
-      "มีค่าใช้จ่ายสำหรับอุปกรณ์ 500-1,000 บาท",
-      "ต้องมีคอมพิวเตอร์พกพา หรือ iPad"
+      "-",
+      ""
     ]
   },
   {
-    "order":44,
-    "code":"ศ30235",
-    "name":"การปฏิบัติกลองไทยสร้างสรรค์",
+    "order":58,
+    "code":"ง30274",
+    "name":"นวัตกรรมการแปรรูปผลผลิตทางการเกษตร",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.ภูวิศ",
+    "instructor":"อ.ดร.อริสา",
     "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"2",
-    "updatedElectiveQuantity":"2",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"อังคาร 7, อังคาร 8",
     "classroom":"",
-    "note":""
+    "note":"-"
   },
   {
-    "order":45,
-    "code":"ศ30249",
-    "name":"การปฏิบัติกลองไทย\nสร้างสรรค์ 2",
+    "order":59,
+    "code":"ง33283",
+    "name":"การจัดการธุรกิจดิจิทัล",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.ภูวิศ",
+    "instructor":"อ.ดร.อุษาสุดา",
     "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"2",
-    "updatedElectiveQuantity":"2",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "electiveQuantity":"25",
+    "updatedElectiveQuantity":"25",
+    "classtime":"จันทร์ 3, จันทร์ 4",
     "classroom":"",
-    "note":""
+    "note":"ต้องมีคอมพิวเตอร์พกพา หรือ iPad"
   },
   {
-    "order":46,
-    "code":"ศ30253",
-    "name":"การปฏิบัติกลองไทย\nสร้างสรรค์ 3",
+    "order":60,
+    "code":"ง33284",
+    "name":"ก้าวแรกสู่ลูกเรือสายการบิน\nมืออาชีพ ",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.ภูวิศ",
+    "instructor":"อ.ธีรภัทร \/ อ.กีรฏิ \/ อ.ปรเมศวร์ \/ \nอ.ลีลาวดี ",
     "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"2",
-    "updatedElectiveQuantity":"2",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"ศุกร์ 2, ศุกร์ 3",
     "classroom":"",
-    "note":""
+    "note":"-"
   },
   {
-    "order":47,
-    "code":"ศ30252",
-    "name":"การถ่ายภาพเพื่อการโฆษณา",
+    "order":61,
+    "code":"ง33243 ",
+    "name":"การแปรรูปผลผลิต",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.สาธิต \/ \nอ.พิมพ์ฬวีร์ \/ \nอ.กัลยาวีรย์ \/ \nอ.จิตริณี",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"8",
-    "updatedElectiveQuantity":"8",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":48,
-    "code":"ศ30248",
-    "name":"ทฤษฎีดนตรีสากล",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.นที \/ \nอ.มนันท์สิญา \/ \nอ.ศรัณย์ \/ \nอ.ชัชกาญจ์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"8",
-    "updatedElectiveQuantity":"8",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":49,
-    "code":"ศ30254",
-    "name":"การตกแต่งลวดลายบนชิ้นงานเซรามิก",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.สมศักดิ์",
+    "instructor":"อ.ทิพวัลย์ ",
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"20",
     "updatedElectiveQuantity":"20",
@@ -1087,204 +1355,99 @@
     "note":"มีค่าใช้จ่ายสำหรับอุปกรณ์ไม่เกิน 500 บาท"
   },
   {
-    "order":50,
-    "code":"พ33275",
-    "name":"ผลิตภัณฑ์สุขภาพและสิทธิ\nผู้บริโภค",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.จารุุวรรณ",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"30",
-    "updatedElectiveQuantity":"30",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":51,
-    "code":"พ33261",
-    "name":"การออกกำลังกายด้วยแรงต้าน",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฮานาฟีย์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"จันทร์ 3, จันทร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":52,
-    "code":"พ33233",
-    "name":"แบดมินตันเพื่อสุขภาพ",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ทินวัฒน์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"จันทร์ 3, จันทร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":53,
-    "code":"พ33276",
-    "name":"บาสเกตบอล 3 คนเพื่อการแข่งขัน",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฮานาฟีย์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"จันทร์ 7, จันทร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":54,
-    "code":"พ33238",
-    "name":"ว่ายน้ำเพื่อสุขภาพ",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ดร.ธานินทร์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 1, พฤหัสบดี 2",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":55,
-    "code":"พ33260",
-    "name":"การเป็นผู้ฝึกสอนฟุตบอล",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ทรงพล",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"จันทร์ 7, จันทร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":56,
-    "code":"พ33263",
-    "name":"นันทนาการเพื่อชีวิต",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ทรงพล",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"จันทร์ 3, จันทร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":57,
-    "code":"พ33266",
-    "name":"เทเบิลเทนนิสสำหรับวัยรุ่น 2",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"อ.ดร.ชญาภัสร์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"พุธ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":58,
-    "code":"พ33231",
-    "name":"ความปลอดภัยในการเล่นกีฬา",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"อ.ดร.ชญาภัสร์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"30",
-    "updatedElectiveQuantity":"30",
-    "classtime":"พุธ 6",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":59,
-    "code":"พ33280",
-    "name":"จานร่อน",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ทินวัฒน์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"ศุกร์ 1, ศุกร์ 2",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":60,
-    "code":"พ33249",
-    "name":"เซปักตะกร้อเพื่อการแข่งขัน",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ธนวิทย์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"จันทร์ 7, จันทร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":61,
-    "code":"พ33264",
-    "name":"โฮลอินวัน",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฉฏาธร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"15",
-    "updatedElectiveQuantity":"15",
-    "classtime":"จันทร์ 7, จันทร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
     "order":62,
-    "code":"พ33246",
-    "name":"บาสเกตบอลเพื่อการแข่งขัน ",
+    "code":"ง33285",
+    "name":"ความถนัดครุศาสตร์และ\nศึกษาศาสตร์",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.สุพัฒน์พงศ์",
+    "instructor":"อ.ดร.จิระ",
     "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"พฤหัสบดี 1, พฤหัสบดี 2",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"จันทร์ 7, จันทร์ 8",
     "classroom":"",
-    "note":""
+    "note":"-"
   },
   {
     "order":63,
-    "code":"อ33202",
-    "name":"การอ่านภาษาอังกฤษ 6",
+    "code":"ง30222",
+    "name":"การถ่ายภาพและตัดต่อดิจิทัล",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"ผศ. ดร.นาถวดี ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"อังคาร 3, อังคาร 4",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":64,
+    "code":"ฝ33201",
+    "name":"ภาษาฝรั่งเศส 5",
+    "credit":"3",
+    "classPerWeek":"6",
+    "group":"1",
+    "instructor":"อ.ณิชาภัทร",
+    "enrollment":"ศิลป์-ฝรั่งเศส",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":65,
+    "code":"ย33201",
+    "name":"ภาษาเยอรมัน 5",
+    "credit":"3",
+    "classPerWeek":"6",
+    "group":"1",
+    "instructor":"ผศ.รัตนา",
+    "enrollment":"ศิลป์-เยอรมัน",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":66,
+    "code":"จ33201",
+    "name":"ภาษาจีน 5",
+    "credit":"3",
+    "classPerWeek":"6",
+    "group":"1",
+    "instructor":"อ.ถาน \/ \nอ.ดร.ชัญญภัค",
+    "enrollment":"ศิลป์-จีน",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":67,
+    "code":"ญ33201",
+    "name":"ภาษาญี่ปุ่น 5",
+    "credit":"3",
+    "classPerWeek":"6",
+    "group":"1",
+    "instructor":"อ.ทาเคชิ \/ \nอ.ดร.กวิตา",
+    "enrollment":"ศิลป์-ญี่ปุ่น",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"จันทร์ 1, อังคาร 6, พุธ 7, พุธ 8, ศุกร์ 2, ศุกร์ 3",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":68,
+    "code":"อ33201",
+    "name":"การอ่านภาษาอังกฤษ 5",
     "credit":"1",
     "classPerWeek":"2",
     "group":[
@@ -1313,9 +1476,9 @@
       "35"
     ],
     "classtime":[
-      "พุธ 3, ศุกร์ 8",
-      "พุธ 3, พุธ 4",
-      "ศุกร์ 1, ศุกร์ 2"
+      "พุธ 1, พุธ 2",
+      "พุธ 4, ศุกร์ 4",
+      "อังคาร 3, อังคาร 4"
     ],
     "classroom":[
       "",
@@ -1323,54 +1486,45 @@
       ""
     ],
     "note":[
-      "ไม่รับนักเรียนโครงการ EP เนื่องจากเนื้อหาคล้ายคลึงกับรายวิชา\nพื้นฐาน",
+      "ไม่รับนักเรียนโครงการ EP",
       "",
       ""
     ]
   },
   {
-    "order":64,
-    "code":"อ33238",
-    "name":"ปรับพื้นฐานภาษาอังกฤษ 2",
+    "order":69,
+    "code":"อ33237",
+    "name":"ปรับพื้นฐานภาษาอังกฤษ 1",
     "credit":"0.5",
     "classPerWeek":"1",
-    "group":[
-      "1",
-      "2"
-    ],
-    "instructor":[
-      "อ.สัญลักษณ์",
-      "อ.สัญลักษณ์"
-    ],
-    "enrollment":[
-      "ทุกกลุ่ม",
-      "ทุกกลุ่ม"
-    ],
-    "electiveQuantity":[
-      "35",
-      "35"
-    ],
-    "updatedElectiveQuantity":[
-      "35",
-      "35"
-    ],
-    "classtime":[
-      "จันทร์ 2 (จ1)",
-      "พุธ 6"
-    ],
-    "classroom":[
-      "",
-      ""
-    ],
-    "note":[
-      "เฉพาะนักเรียนที่มีเกรดวิชาภาษาอังกฤษในปีการศึกษาก่อนหน้าต่ำกว่า 3 เท่านั้น",
-      ""
-    ]
+    "group":"1",
+    "instructor":"อ.สัญลักษณ์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"ศุกร์ 6",
+    "classroom":"",
+    "note":"เฉพาะนักเรียนที่มีเกรดเฉลี่ยต่ำกว่า 2 เท่านั้น"
   },
   {
-    "order":65,
-    "code":"อ33274",
-    "name":"ทักษะอุดมศึกษา 2",
+    "order":70,
+    "code":"อ33279",
+    "name":"สำรวจโลกสถาปัตยกรรมศาสตร์\nผ่านการอ่าน",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ศศิธร",
+    "enrollment":"วิทย์-คณิต",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"ศุกร์ 6",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":71,
+    "code":"อ33273",
+    "name":"ทักษะอุดมศึกษา 1",
     "credit":"0.5",
     "classPerWeek":"1",
     "group":"1",
@@ -1378,14 +1532,14 @@
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"35",
     "updatedElectiveQuantity":"35",
-    "classtime":"พุธ 6",
+    "classtime":"ศุกร์ 4",
     "classroom":"",
-    "note":""
+    "note":"-"
   },
   {
-    "order":66,
+    "order":72,
     "code":"อ33207",
-    "name":"ภาษาอังกฤษในชีวิตประจำวันเบื้องต้น ",
+    "name":"ภาษาอังกฤษในชีวิตประจำวันเบื้องต้น",
     "credit":"0.5",
     "classPerWeek":"1",
     "group":[
@@ -1395,8 +1549,8 @@
     ],
     "instructor":[
       "อ.พิสันธนีย์",
-      "อ.สัญลักษณ์",
-      "อ.สัญลักษณ์"
+      "อ.พิสันธนีย์",
+      "อ.พิสันธนีย์"
     ],
     "enrollment":[
       "ทุกกลุ่ม",
@@ -1414,9 +1568,9 @@
       "35"
     ],
     "classtime":[
-      "อังคาร 4 (พ9)",
-      "ศุกร์ 4",
-      "อังคาร 6 (พฤ9)"
+      "ศุกร์ 1",
+      "อังคาร 6",
+      "จันทร์ 1"
     ],
     "classroom":[
       "",
@@ -1424,195 +1578,135 @@
       ""
     ],
     "note":[
-      "",
+      "-",
       "",
       ""
     ]
   },
   {
-    "order":67,
-    "code":"จ33252",
+    "order":73,
+    "code":"อ33214",
+    "name":"ภาษาอังกฤษเพื่อการทดสอบ",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.อภันตรี",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"35",
+    "updatedElectiveQuantity":"35",
+    "classtime":"ศุกร์ 1",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":74,
+    "code":"จ33248",
     "name":"เตรียมความพร้อม A-Level จีน",
     "credit":"0.5",
     "classPerWeek":"1",
     "group":"1",
-    "instructor":"อ.ชัญญภัค ",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พุธ 6",
+    "instructor":"อ.ดร.ชัญญภัค",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
-    "note":""
+    "note":"นักเรียนต้องมีพื้นฐานภาษาจีน"
   },
   {
-    "order":68,
+    "order":75,
     "code":"ญ33252",
     "name":"เตรียมความพร้อม A-Level ญี่ปุ่น",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.ทาเคชิ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"ศุกร์ 1",
+    "classroom":"",
+    "note":"นักเรียนต้องมีพื้นฐานภาษาญี่ปุ่น"
+  },
+  {
+    "order":76,
+    "code":"ก33213",
+    "name":"ภาษาเกาหลีสำหรับการสอบ TOPIK 3",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.ดร.กวิตา",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"ศุกร์ 1, ศุกร์ 2",
+    "instructor":"อ.ใหม่",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"พุธ 1, พุธ 2",
+    "classroom":"",
+    "note":"นักเรียนต้องมีพื้นฐานภาษาเกาหลี"
+  },
+  {
+    "order":77,
+    "code":"อ30209",
+    "name":"บทกวีภาษาอังกฤษ",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.วิไลพรรณ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"ศุกร์ 6",
     "classroom":"",
     "note":""
   },
   {
-    "order":69,
-    "code":"ย33252",
-    "name":"สนุกกับการอ่านเยอรมัน \n\n(เปลี่ยนเวลาเรียน)",
+    "order":78,
+    "code":"ฝ33254",
+    "name":"ฝรั่งเศสพิชิตสอบ",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.วิรัชวิชชา",
+    "enrollment":"ศิลป์-ฝรั่งเศส",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"จันทร์ 7, จันทร์ 8",
+    "classroom":"",
+    "note":"สำหรับนักเรียนศิลป์-ฝรั่งเศสเท่านั้น"
+  },
+  {
+    "order":79,
+    "code":"ย30237",
+    "name":"ภาษาเยอรมันสำหรับการทดสอบ",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
     "instructor":"ผศ.รัตนา",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":70,
-    "code":"ก33216",
-    "name":"ภาษาเกาหลีขั้นสูง 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฮเยริน",
     "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พฤหัสบดี 1, พฤหัสบดี 2",
+    "electiveQuantity":"20",
+    "updatedElectiveQuantity":"20",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
-    "note":""
+    "note":"นักเรียนต้องมีพื้นฐานภาษาเยอรมันรับเฉพาะนักเรียนกลุ่มการเรียนภาษาอังกฤษ-เยอรมัน"
   },
   {
-    "order":71,
-    "code":"ฝ33254",
-    "name":"ฝรั่งเศสพิชิตข้อสอบ",
+    "order":80,
+    "code":"จ30231",
+    "name":"ภาษาจีนเบื้องต้น 1",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
-    "instructor":"อ.วิรัชวิชชา",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"พุธ 4, ศุกร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":72,
-    "code":"ก33203",
-    "name":"วัฒนธรรมเกาหลี",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฮเยริน",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":73,
-    "code":"ก33208",
-    "name":"ภาษาเกาหลีสำหรับการสอบ TOPIK ระดับ 4",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฮเยริน",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"35",
-    "updatedElectiveQuantity":"35",
-    "classtime":"ศุกร์ 1, ศุกร์ 2",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":74,
-    "code":"ฝ30232",
-    "name":"ภาษาฝรั่งเศสเบื้องต้น 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.วิรัชวิชชา",
+    "instructor":"อ.ดร.ชัญญภัค",
     "enrollment":"ทุกกลุ่ม",
     "electiveQuantity":"10",
     "updatedElectiveQuantity":"10",
     "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
+    "note":"ห้ามนักเรียนศิลป์-จีน\nลงทะเบียน"
   },
   {
-    "order":75,
-    "code":"ฝ30234",
-    "name":"ภาษาฝรั่งเศสเบื้องต้น 4",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ณิชาภัทร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
-  },
-  {
-    "order":76,
-    "code":"จ30234",
-    "name":"ภาษาจีนเบื้องต้น 4",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ถาน",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
-  },
-  {
-    "order":77,
-    "code":"ย30232",
-    "name":"ภาษาเยอรมันเบื้องต้น 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ณัฏฐริญา",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
-  },
-  {
-    "order":78,
-    "code":"ย30211",
-    "name":"เปิดโลกภาษาเยอรมัน\n\n\n(เปลี่ยนเวลาเรียน)",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"ผศ. รัตนา",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พุธ 1 (พ0), พุธ 2 (พ1)",
-    "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
-  },
-  {
-    "order":79,
-    "code":"ญ30232",
-    "name":"ภาษาญี่ปุ่นเบื้องต้น 2",
+    "order":81,
+    "code":"ญ30231",
+    "name":"ภาษาญี่ปุ่นเบื้องต้น 1",
     "credit":"1",
     "classPerWeek":"2",
     "group":"1",
@@ -1622,195 +1716,75 @@
     "updatedElectiveQuantity":"10",
     "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
     "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
-  },
-  {
-    "order":80,
-    "code":"ญ30234",
-    "name":"ภาษาญี่ปุ่นเบื้องต้น 4",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ทาเคชิ",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":"ไม่รับนักเรียนที่เรียนศิลป์ \n(ภาษา) ที่เป็นภาษาเดียวกับวิชานี้"
-  },
-  {
-    "order":81,
-    "code":"ก30211",
-    "name":"ภาษาเกาหลีคาจา 2",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.ฮเยริน",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"11",
-    "updatedElectiveQuantity":"11",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
+    "note":"ห้ามนักเรียนศิลป์-ญี่ปุ่น\nลงทะเบียน"
   },
   {
     "order":82,
-    "code":"ร30201",
-    "name":"ภาษา (รัสเซีย) พาเพลิน",
+    "code":"ก30231",
+    "name":"ภาษาเกาหลีเบื้องต้น1",
     "credit":"1",
     "classPerWeek":"2",
-    "group":"1",
-    "instructor":"ผศ.ดร.ชนันพร",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"20",
-    "updatedElectiveQuantity":"20",
-    "classtime":"จันทร์ 3, จันทร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":83,
-    "code":"ป30221",
-    "name":"วัฒนธรรมสเปนและลาติน\nอเมริกา",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.เบญจมาศ",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"9",
-    "updatedElectiveQuantity":"9",
-    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":84,
-    "code":"ก30206",
-    "name":"ปริทรรศน์ภาษาเกาหลี6",
-    "credit":"1",
-    "classPerWeek":"2",
-    "group":"1",
-    "instructor":"อ.แพร์ฉายญ์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":85,
-    "code":"ก30202",
-    "name":"เรียนรู้เกาหลีผ่านสื่อสังคมออนไลน์\n\n(รายวิชาเปิดใหม่)",
-    "credit":"0.5",
-    "classPerWeek":"1",
-    "group":"1",
-    "instructor":"อ.แพร์ฉายญ์",
-    "enrollment":"ทุกกลุ่ม",
-    "electiveQuantity":"25",
-    "updatedElectiveQuantity":"25",
-    "classtime":"ศุกร์ 4",
-    "classroom":"",
-    "note":""
-  },
-  {
-    "order":86,
-    "code":"ฝ33202",
-    "name":"ภาษาฝรั่งเศส 6",
-    "credit":"3",
-    "classPerWeek":"6",
-    "group":"1",
-    "instructor":"อ.ณิชาภัทร \/ \nอ.วิรัชวิชชา",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"5",
-    "updatedElectiveQuantity":"5",
-    "classtime":"จันทร์ 1 (จ0), พุธ 3, พฤหัสบดี 1, พฤหัสบดี 2, ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":"เฉพาะนักเรียน ศิลป์-ภาษา"
-  },
-  {
-    "order":87,
-    "code":"ย33202",
-    "name":"ภาษาเยอรมัน 6",
-    "credit":"3",
-    "classPerWeek":"6",
-    "group":"1",
-    "instructor":"ผศ.รัตนา \/ \nอ.ณัฏฐริญา",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"2",
-    "updatedElectiveQuantity":"2",
-    "classtime":"จันทร์ 1 (จ0), พุธ 3, พฤหัสบดี 1, พฤหัสบดี 2, ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":"เฉพาะนักเรียน ศิลป์-ภาษา"
-  },
-  {
-    "order":88,
-    "code":"จ33202",
-    "name":"ภาษาจีน 6",
-    "credit":"3",
-    "classPerWeek":"6",
-    "group":"1",
-    "instructor":"อ.ถาน",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"3",
-    "updatedElectiveQuantity":"3",
-    "classtime":"จันทร์ 1 (จ0), พุธ 3, พฤหัสบดี 1, พฤหัสบดี 2, ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":"เฉพาะนักเรียน ศิลป์-ภาษา"
-  },
-  {
-    "order":89,
-    "code":"ญ33202",
-    "name":"ภาษาญี่ปุ่น 6",
-    "credit":"3",
-    "classPerWeek":"6",
-    "group":"1",
-    "instructor":"อ.ทาเคชิ \/ \nอ.ดร.กวิตา",
-    "enrollment":"ศิลป์",
-    "electiveQuantity":"10",
-    "updatedElectiveQuantity":"10",
-    "classtime":"จันทร์ 1 (จ0), พุธ 3, พฤหัสบดี 1, พฤหัสบดี 2, ศุกร์ 7, ศุกร์ 8",
-    "classroom":"",
-    "note":"เฉพาะนักเรียน ศิลป์-ภาษา"
-  },
-  {
-    "order":90,
-    "code":"พ33269",
-    "name":"เข้าค่าย",
-    "credit":"0.5",
-    "classPerWeek":"1",
     "group":[
       "1",
       "2"
     ],
     "instructor":[
-      "อ.จ.ส.ต.ธยศ ",
-      "อ.ชวลิต"
+      "อ.ใหม่",
+      "อ.ใหม่"
     ],
     "enrollment":[
       "ทุกกลุ่ม",
       "ทุกกลุ่ม"
     ],
     "electiveQuantity":[
-      "25",
-      "25"
+      "10",
+      "30"
     ],
     "updatedElectiveQuantity":[
-      "25",
-      "25"
+      "10",
+      "30"
     ],
     "classtime":[
-      "อังคาร 4 (พ9)",
-      "จันทร์ 2 (จ1)"
+      "พฤหัสบดี 7, พฤหัสบดี 8",
+      "อังคาร 7, อังคาร 8"
     ],
     "classroom":[
       "",
       ""
     ],
     "note":[
-      "",
-      ""
+      "-",
+      "-"
     ]
+  },
+  {
+    "order":83,
+    "code":"ป302015",
+    "name":"ภาษาสเปนเบื้องต้น 1",
+    "credit":"1",
+    "classPerWeek":"2",
+    "group":"1",
+    "instructor":"อ.เบญจมาศ",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"10",
+    "updatedElectiveQuantity":"10",
+    "classtime":"พฤหัสบดี 7, พฤหัสบดี 8",
+    "classroom":"",
+    "note":"-"
+  },
+  {
+    "order":84,
+    "code":"ก30202",
+    "name":"เรียนรู้เกาหลีผ่านสื่อสังคมออนไลน์",
+    "credit":"0.5",
+    "classPerWeek":"1",
+    "group":"1",
+    "instructor":"อ.แพร์ฉายญ์",
+    "enrollment":"ทุกกลุ่ม",
+    "electiveQuantity":"30",
+    "updatedElectiveQuantity":"30",
+    "classtime":"อังคาร 8",
+    "classroom":"",
+    "note":"-"
   }
 ]
